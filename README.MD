@@ -51,34 +51,4 @@ Os promts foram guardados dentro do link do `Notion` fornecido na parte de `Mate
 
 ## 👨‍💻 Fim...
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src=""
-    />
-    <p><br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
 ⌨️ com 💜 por Marcos Antonio
