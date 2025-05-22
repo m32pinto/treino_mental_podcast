@@ -5,6 +5,12 @@
         alt="Atividade">
 </p>
 
+<p align="center">
+  <a href="https://soundcloud.com/marcos-antonio-846418054?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">
+    ▶️ Ouvir no SoundCloud
+  </a>
+</p>
+
 </p>
 
 <div align="center">
