@@ -1,10 +1,9 @@
 <p align="center">
-<img 
-    src="./assets/cover.png.png"
-    width="300"
-/>
+<a href="">
+    <img 
+        src="./assets/cover.png.png" 
+        alt="Atividade">
 </p>
-
 
 <p align="center">
     preview do podcast
