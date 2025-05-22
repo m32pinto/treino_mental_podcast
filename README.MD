@@ -5,19 +5,6 @@
         alt="Atividade">
 </p>
 
-<p align="center">
-
-<div align="center">
-  <details>
-    <summary style="cursor: pointer; font-weight: bold; padding: 8px 15px; border: 1px solid #ccc; border-radius: 5px; background-color: #f0f0f0; display: inline-block;">
-      ▶️ Ouvir o Podcast (Clique aqui)
-    </summary>
-    <div style="padding-top: 15px;">
-      <audio src="./output/podcast_editado.MP3" controls></audio>
-    </div>
-  </details>
-</div>
-
 </p>
 
 <div align="center">
