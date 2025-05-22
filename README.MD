@@ -5,12 +5,6 @@
 />
 </p>
 
-<p align="center">
-<a href="">
-    <img 
-        src="./assets/cover.png.png" 
-        alt="Atividade">
-</p>
 
 <p align="center">
     preview do podcast
