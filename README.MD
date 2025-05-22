@@ -8,7 +8,7 @@
 <p align="center">
 <a href="">
     <img 
-        src="" 
+        src="./assets/cover.png.png" 
         alt="Atividade">
 </a>
 <a href="">
