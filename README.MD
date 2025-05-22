@@ -10,12 +10,6 @@
     <img 
         src="./assets/cover.png.png" 
         alt="Atividade">
-</a>
-<a href="">
-<img 
-    src="" 
-    alt="">
-</a>
 </p>
 
 <p align="center">
