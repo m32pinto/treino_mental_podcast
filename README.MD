@@ -17,7 +17,7 @@
     <audio src="./output/podcast_editado.MP3" controls></audio>
 </div>
 
-# Projeto Treino mental gerado por I.A.s
+# Projeto Podcast de Treino Mental Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório é uma atividade proposta pela [DIO](https://dio.me)
