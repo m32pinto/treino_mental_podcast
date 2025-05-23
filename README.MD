@@ -20,7 +20,7 @@
 # Projeto Podcast de Treino Mental Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório é uma atividade proposta pela [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este repositório é uma atividade proposta pela [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
